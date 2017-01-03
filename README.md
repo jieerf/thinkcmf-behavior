@@ -22,5 +22,5 @@
 1. 配置`BaiduLinkSubmitBehavior`文件中的`site`、`token`类常量
 1. 关闭`index.php`中的debug模式`define("APP_DEBUG", false);`
 
-如果开发中（打开debug模式）添加了很多文章没推送，可在网页底部`footer.html`中加入自动推送js代码，详情了解官方文档：http://zhanzhang.baidu.com/college/courseinfo?id=267&page=2](http://zhanzhang.baidu.com/college/courseinfo?id=267&page=2)[
+如果开发中（打开debug模式）添加了很多文章没推送，可在网页底部`footer.html`中加入自动推送js代码，详情了解官方文档：[http://zhanzhang.baidu.com/college/courseinfo?id=267&page=2](http://zhanzhang.baidu.com/college/courseinfo?id=267&page=2)
 
