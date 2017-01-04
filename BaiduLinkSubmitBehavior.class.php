@@ -134,7 +134,6 @@ class BaiduLinkSubmitBehavior extends Behavior{
             return ;
         }
         $url = leuu( 'article/index', array( 'id'=>$article['id'], 'cid'=>$article['term_id'] ), true, true );
-        die( "delete: {$url}" );
         $res = $this->_del( array( $url ) );
     }
 
